@@ -1,0 +1,3 @@
+name: my-serverless-app
+runtime: nodejs
+description: A TypeScript program to deploy a serverless application on AWS
